@@ -2,7 +2,7 @@ package lop
 
 import (
 	"fmt"
-	"lop/lopcore"
+	"github.com/De-Santos/lop/lopcore"
 	"time"
 )
 

@@ -2,7 +2,7 @@ package lop
 
 import (
 	"context"
-	"lop/lopcore"
+	"github.com/De-Santos/lop/lopcore"
 )
 
 type logger struct {
