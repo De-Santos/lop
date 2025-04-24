@@ -1,1 +1,12 @@
-/.idea/
+# Ignore all JetBrains IDE config folders
+**/.idea/
+
+# Go build/test output
+*.exe
+*.out
+*.test
+*.log
+
+# Binary output folders
+/bin/
+/vendor/
